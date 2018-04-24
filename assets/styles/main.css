@@ -1,0 +1,67 @@
+.fontly {
+    font-family: 'Gugi', cursive;
+}
+.cardz {
+    align-items: center;
+    border-radius: 0%;
+    flex-basis: auto;
+    background: white;
+    color: black;
+    margin: auto;
+    padding: 5vh;
+    margin:20px 50px;
+}
+
+.useful-links {
+    text-align: center;
+    display: -webkit-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #537791;
+
+}
+
+.bg1{
+    
+    background-color: #e7e6e1;
+}
+
+/* .navbar{
+    overflow: hidden;
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index:1;
+} */
+
+.nav-format {
+    background-color:#537791;
+}
+.image2{
+    background-image: url('./forest-shore.jpg');
+    height:65vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.image1{
+border-radius:100%;
+}
+
+.image3{
+    height: 44vh;
+}
+.footerlist {
+    list-style-type: upper-latin;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#537791;
+}
+li{
+    display:block;
+    color: #e7e6e1;
+    text-align: center;
+    padding: 10px 16px;
+}
